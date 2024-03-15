@@ -1,5 +1,4 @@
 # VRSO
-Thank you for visiting our project repository. We're excited to announce that our code will be open-sourced soon!
 
 **VRSO**: **V**isual-Centric **R**econstruction for **S**tatic **O**bject Annotation, waymo example:  
 <p align="left">
