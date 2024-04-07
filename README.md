@@ -1,6 +1,7 @@
 # VRSO
 
 **VRSO**: **V**isual-Centric **R**econstruction for **S**tatic **O**bject Annotation
+
 [Arxiv](https://arxiv.org/pdf/2403.15026.pdf) | [Youtube](https://youtu.be/tuaVRG4VFJY) | [Bilibili](https://www.bilibili.com/video/BV16D42157JG/?spm_id_from=333.999.0.0&vd_source=34df4267be146d2dde6e0bf98a2ce363)  
 
 waymo example:  
